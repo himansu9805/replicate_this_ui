@@ -1,10 +1,14 @@
-# spotify_home
+# Replicate This UI
 
-A new Flutter project.
+## Introduction
 
-## Getting Started
+This is the code from the 2nd episode of 'The Flutter Series'. No Voice coding for this on [YouTube](https://youtu.be/5eLqthr_89Y).
 
-This project is a starting point for a Flutter application.
+## What UI is being repicated?
+
+<img src="previews/preview.jpg" width="250"  />
+
+## For Beginners
 
 A few resources to get you started if this is your first Flutter project:
 
